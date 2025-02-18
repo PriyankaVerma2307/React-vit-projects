@@ -1,0 +1,54 @@
+.fullcontainer{
+    width:100%;
+    height:100%;
+    background-image: url('../public/gif.gif');
+    background-size:95rem 50rem;
+    padding: 2rem 0 45rem 0;
+}
+
+h1{
+    font-size:5rem;
+}
+
+p{
+    font-size:2rem;
+}
+
+button{
+    border-radius:25px;
+    padding:0.5rem  1rem 0.5rem 1rem;
+    color:#9932CC;
+    font-size:1.5rem;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+.seconddiv{
+    text-align:center;
+    color:white;
+ }
+
+h2{
+    float:right;
+    font-size:2rem;
+}
+
+.link01 ,.link02{
+    color:#9932CC;
+    text-decoration:none;
+    font-size:1.5rem;
+    background-color:white;
+    border-radius:25px;
+    margin: 2rem 2rem 0 2rem;
+    padding:0.5rem  1rem 0.5rem 1rem;
+}
+
+.link01:hover{
+    background-color:#9932CC;
+    color:white;
+}
+.link02:hover{
+    background-color:#9932CC;
+    color:white;
+}
+
