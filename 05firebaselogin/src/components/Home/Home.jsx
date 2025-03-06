@@ -5,6 +5,7 @@ import './Home.css'
 function Home() {
   return (
     <div className="fullcontainer">
+      <video autoPlay muted loop src="../public/universe.mp4"/>
       <div className="firstdiv">
         <Link to="/login"
         className="link01">Login</Link>
